@@ -1,7 +1,14 @@
 .constainer {
-  width: 50%;
   margin-bottom: 0.2em;
   padding: 0.2em;
+}
+
+.constainer.grid {
+  width: 50%;
+}
+
+.constainer.list {
+  width: 100%;
 }
 
 .video {
